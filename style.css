@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Slab:wght@200&display=swap');
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+.container{
+    width:90%;
+    height:1020px;
+    background-color:#fada12;
+    margin:auto;
+    font-family: 'Anton', sans-serif;
+
+}
+
+header{
+
+    width:100%;
+    height:140px;
+    text-align: center;
+    background-color: #05f;
+}
+header h3{
+    font-size: 80px;
+}
+
+.div1{
+    width:40%;
+    background-color: beige;
+    float:left;
+   
+}
+
+.div2{
+    width:60%;
+    float:left;
+}
+.graph{
+    width: 100%;
+    background-color: white;
+    float:left;
+}
+
+ol {
+    padding-left: 35px;
+}
+ul {
+    padding-left: 35px;
+}
